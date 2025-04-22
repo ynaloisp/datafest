@@ -39,7 +39,7 @@ The pandemic dramatically changed workplace norms, shifting many companies to hy
 
 ## 📁 Project Deliverables
 
-- [📊 Project Slides](#) *(https://docs.google.com/presentation/d/1yPdYiSZOybWGVkm2KX0ibRc1nKQ_yeXEQE3NDjOLehE/edit?usp=sharing)*
+- [📊 Project Slides](https://docs.google.com/presentation/d/1yPdYiSZOybWGVkm2KX0ibRc1nKQ_yeXEQE3NDjOLehE/edit?usp=sharing) 
 
 ---
 
